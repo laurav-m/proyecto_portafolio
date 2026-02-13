@@ -1,6 +1,8 @@
 body {
-	background-color:#C4BFBE;
-	font-family:Arial, sans-serif;
+	background-color:#ffa8f1;
+	font-family:'Times New Roman', Times, serif;
+	padding: auto;
+	font-display: 15px;
 }
 h1 {
 	color:#7FF000;
